@@ -1,3 +1,5 @@
 This is my first file created for git
 
 HI Jawad
+
+PLease check config details
